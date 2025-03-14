@@ -240,3 +240,10 @@ git pull origin main
 ✅ Usa git status y git log para verificar cambios antes de hacer commit.
 
 Este flujo asegura que cada estudiante trabaja de forma independiente y permite revisar los cambios antes de fusionarlos. ¿Necesitas que ajuste algo para tu clase? 😊
+
+1. Configurar la terminal predeterminada en VS Code
+Abre Visual Studio Code.
+Presiona Ctrl + Shift + P para abrir la paleta de comandos.
+Escribe "Configurar perfil de terminal predeterminado" y selecciónalo.
+Elige WSL en la lista de opciones.
+Esto hará que cada vez que abras la terminal en VS Code (Ctrl + Ñ), se abra WSL en lugar del símbolo de sistema de Windows.
